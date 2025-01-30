@@ -1,0 +1,35 @@
+﻿  main.cpp
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\basic_camera.h(93,9): warning C4068: unknown pragma 'oncea'
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(522,69): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(522,64): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(522,59): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(534,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(535,50): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1160,26): warning C4305: '+=': truncation from 'double' to 'float'
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(588,124): warning C4101: 'InvRotateTranslateMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(588,101): warning C4101: 'RotateTranslateMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(588,36): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(588,66): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1264,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1264,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1398,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1398,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1398,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1479,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1479,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1479,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1546,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1568,46): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1574,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1641,24): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1662,27): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1687,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1707,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1718,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1776,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1777,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1781,31): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1834,32): warning C4101: 'rotateXMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1834,62): warning C4101: 'rotateZMatrix': unreferenced local variable
+D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\main.cpp(1834,47): warning C4101: 'rotateYMatrix': unreferenced local variable
+  3D_Kitchen_Room.vcxproj -> D:\UserFolder\Desktop\Computer Graphics Lab\Lab 3\3D_Kitchen_Room_Lighting\x64\Debug\3D_Kitchen_Room.exe
